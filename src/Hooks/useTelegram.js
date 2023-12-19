@@ -21,6 +21,4 @@ const useTelegram = () => {
   };
 };
 
-export default {
-  useTelegram,
-};
+export default useTelegram;
